@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/scala-01/src/test/scala/edu/knoldus/SortingTest.scala:57:22: value bubbleSort is not a member of edu.knoldus.Sorting[0m
+[0m[[0m[31merror[0m] [0m[0m      assert(sorting.bubbleSort(sortedList) == sortedList.sortBy(identity))[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/scala-01/src/test/scala/edu/knoldus/SortingTest.scala:61:22: value bubbleSort is not a member of edu.knoldus.Sorting[0m
+[0m[[0m[31merror[0m] [0m[0m      assert(sorting.bubbleSort(unSortedList) == unSortedList.sortBy(identity))[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/scala-01/src/test/scala/edu/knoldus/SortingTest.scala:65:22: value bubbleSort is not a member of edu.knoldus.Sorting[0m
+[0m[[0m[31merror[0m] [0m[0m      assert(sorting.bubbleSort(reversedList) == reversedList.sortBy(identity))[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/scala-01/src/test/scala/edu/knoldus/SortingTest.scala:69:22: value bubbleSort is not a member of edu.knoldus.Sorting[0m
+[0m[[0m[31merror[0m] [0m[0m      assert(sorting.bubbleSort(listWithNegativeIntegers) == listWithNegativeIntegers.sortBy(identity))[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/IdeaProjects/scala-01/src/test/scala/edu/knoldus/SortingTest.scala:73:1: not found: value */[0m
+[0m[[0m[31merror[0m] [0m[0m*/[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m
